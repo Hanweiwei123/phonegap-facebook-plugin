@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.phonegap.plugins.facebookconnectHww4"
-    version="0.3.2">
+    id="com.phonegap.plugins.facebookconnectHww401"
+    version="0.3.2.1">
 
-    <name>Facebook ConnectHww4</name>
+    <name>Facebook ConnectHww401</name>
     
     <description>
       &lt;p&gt;This is the official plugin for Facebook in Apache Cordova/PhoneGap!&lt;/p&gt;
