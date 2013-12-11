@@ -96,8 +96,9 @@
         </config-file>
 
         <!-- release facebook 3.5.2 framework -->
+        <!-- 
         <source-file src="src/ios/frameworks/FacebookSDK-3.5.2-Release.a" framework="true" />
-        
+         -->
         <!-- debug facebook 3.5.2 framework  -->
         <!-- <source-file src="src/ios/frameworks/FacebookSDK-3.5.2-Debug.a" framework="true" /> -->
 
